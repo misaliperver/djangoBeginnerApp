@@ -19,6 +19,7 @@ Burada önemli olan Harici IP'yi settings.py > Allowed'ın içine koymak.
 - - *sudo apt-get install python3-pip*
 - - *pwd*
 - git clone ediyorsunuz
+- - git clone https://github.com/misaliperver/djangoBeginnerApp
 - *mkdir djangoBeginnerApp*
 - sanal ortam kurlum
 - - *python3 -m venv myvenv*
