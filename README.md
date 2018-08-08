@@ -21,8 +21,8 @@ Burada önemli olan Harici IP'yi settings.py > Allowed'ın içine koymak.
 - git clone ediyorsunuz
 - *mkdir djangoBeginnerApp*
 - sanal ortam kurlum
--- *python3 -m venv myvenv*
--- *source myvenv/bin/activate*
+- - *python3 -m venv myvenv*
+- - *source myvenv/bin/activate*
 -sanal ortamımıza django kuralım
 - *pip install django*
 - *./python manage.py runserver 0.0.0.0:8000*
